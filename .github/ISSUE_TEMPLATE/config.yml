@@ -1,4 +1,4 @@
 contact_links:
   - name: Ask a question or get help
-    url: "https://github.com/${{ github.repository }}/discussions/new?category=Q-A"
+    url: "${{ github.server_url }}/${{ github.repository }}/discussions/new?category=Q-A"
     about: Get help with community-provided tech support
