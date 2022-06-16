@@ -1,4 +1,4 @@
 contact_links:
   - name: Ask a question or get help
-    url: "${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/discussions"
+    url: "../../../discussions"
     about: Get help with community-provided tech support
